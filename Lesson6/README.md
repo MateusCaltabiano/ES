@@ -22,7 +22,7 @@ void loop()
   delay(1000);
 }
 ```
-![Lesson 6-b Hardware image](/Lesson6/lesson6-projectB.png)
+![Lesson 6-b Hardware image](/Lesson6/Lesson6-projectB.png)
 
 ### Source code
 
