@@ -1,4 +1,4 @@
-![Design-8C Hardware image](/Design-8C/DESIGN-8C(z123367).png)
+![Design-8C Hardware image](/Assignments/Design-8C/DESIGN-8C(z123367).png)
 
 ### Source code for leftmost board
 
