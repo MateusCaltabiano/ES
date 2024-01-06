@@ -1,4 +1,4 @@
-![alt](/Lesson2/Lesson2.png)
+![Lesson 2 Hardware image](/Lesson2/Lesson2.png)
 
 ### Source Code
 
