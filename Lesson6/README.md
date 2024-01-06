@@ -1,4 +1,4 @@
-![Lesson 6-a Hardware image]()
+![Lesson 6-a Hardware image](/Lesson6/Lesson%6-projectA.png)
 
 ### Source code
 
