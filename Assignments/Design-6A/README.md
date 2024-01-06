@@ -1,4 +1,4 @@
-![Design 6A hardware image](/Design-6A/DESIGN-6A(Z123367).png)
+![Design 6A hardware image](/Assignments/Design-6A/DESIGN-6A(Z123367).png)
 
 ### Source code
 
