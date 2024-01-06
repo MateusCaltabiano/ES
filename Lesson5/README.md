@@ -2,6 +2,8 @@
 
 ### Source code
 
+```
+
 #define PIN_SW 7
 
 void setup()
@@ -73,3 +75,5 @@ void loop()
   }
   	
 }
+
+```
